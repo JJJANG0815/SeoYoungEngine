@@ -1,0 +1,6 @@
+﻿  SOURCE.cpp
+C:\Users\USER_21(402)\source\repos\JSYEngine\JSYEngine_SOURCE\SOURCE.cpp(59,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER_21(402)\source\repos\JSYEngine\JSYEngine_SOURCE\SOURCE.cpp(59,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER_21(402)\source\repos\JSYEngine\JSYEngine_SOURCE\SOURCE.cpp(59,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER_21(402)\source\repos\JSYEngine\JSYEngine_SOURCE\SOURCE.cpp(59,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  JSY.vcxproj -> C:\Users\USER_21(402)\source\repos\JSYEngine\JSYEngine\x64\Debug\JSYEngine_Window.lib
