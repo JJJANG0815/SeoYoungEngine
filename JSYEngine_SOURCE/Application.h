@@ -23,10 +23,6 @@ namespace SY
 		HWND mHwnd;
 		HDC mHdc;
 
-		float mSpeed;
-		float mX;
-		float mY;
-
 
 	};
 

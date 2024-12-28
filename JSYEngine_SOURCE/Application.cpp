@@ -1,4 +1,5 @@
 #include "Application.h"
+#include "GameObject.h"
 
 namespace SY
 {
@@ -6,9 +7,7 @@ namespace SY
 	Application::Application()
 		: mHwnd(nullptr)
 		, mHdc(nullptr)
-		, mSpeed(0.0f)
-		, mX(0.0f)
-		, mY(0.0f)
+		
 	{
 
 	}

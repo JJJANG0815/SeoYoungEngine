@@ -31,9 +31,6 @@ namespace SY
 		float mHeight;
 		float mSpeed;
 		COLORREF mColor;
-
-
-
 	};
 
 }
